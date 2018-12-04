@@ -1,4 +1,0 @@
-LIBRARY
-EXPORTS
-        RUNDLL32_LegacyUnloadW @1
-        RUNDLL32_DeleteFileW @2
